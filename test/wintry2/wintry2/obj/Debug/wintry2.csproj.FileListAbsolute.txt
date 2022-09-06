@@ -1,0 +1,10 @@
+C:\Studies\Desktop\test\wintry2\wintry2\bin\Debug\wintry2.exe.config
+C:\Studies\Desktop\test\wintry2\wintry2\bin\Debug\wintry2.exe
+C:\Studies\Desktop\test\wintry2\wintry2\bin\Debug\wintry2.pdb
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.csproj.AssemblyReference.cache
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.Form1.resources
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.Properties.Resources.resources
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.csproj.GenerateResource.cache
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.csproj.CoreCompileInputs.cache
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.exe
+C:\Studies\Desktop\test\wintry2\wintry2\obj\Debug\wintry2.pdb
